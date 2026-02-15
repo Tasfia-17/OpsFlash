@@ -1,9 +1,17 @@
-# OpsFlash ⚡
+<p align="center">
+  <img src="opsflash.png" alt="OpsFlash" width="400"/>
+</p>
 
-**Governed Git automation via MCP and Archestra**
+<h1 align="center">OpsFlash ⚡</h1>
 
-[![MCP](https://img.shields.io/badge/MCP-Native-blue)](https://modelcontextprotocol.io)
-[![Archestra](https://img.shields.io/badge/Archestra-Ready-green)](https://archestra.ai)
+<p align="center">
+  <strong>Governed Git automation via MCP and Archestra</strong>
+</p>
+
+<p align="center">
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Native-blue" alt="MCP"></a>
+  <a href="https://archestra.ai"><img src="https://img.shields.io/badge/Archestra-Ready-green" alt="Archestra"></a>
+</p>
 
 ---
 
